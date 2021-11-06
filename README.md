@@ -1,2 +1,4 @@
 # odin-recipes
-This website will contain recipes
+This website contains recipes
+
+I learned some HTML and how to use GIT
