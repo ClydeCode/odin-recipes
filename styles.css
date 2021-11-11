@@ -32,7 +32,7 @@
 	transition: .2s ease-in-out;
 }
 
-.column:hover .links {
+a:hover .images {
 	opacity: .6;
 }
 
